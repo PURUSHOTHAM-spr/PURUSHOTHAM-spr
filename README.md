@@ -1,27 +1,25 @@
 # Hi, I'm Purushotham Reddy 👋
 
-CS Undergraduate | Full-Stack Web Developer | Machine Learning Enthusiast  
+CS Undergraduate | Full-Stack Web Developer | Machine Learning Enthusiast
 
-I focus on building real-world, scalable web applications and exploring machine learning systems from fundamentals to deployment.  
-Strong foundation in data structures, backend engineering, and hands-on project development.
+I build practical, scalable web applications and work with machine learning concepts focused on real-world problem solving.  
+My interests lie in backend engineering, API design, and applying ML fundamentals through hands-on projects.
 
 ---
 
 ## About Me
 
-- B.Tech  (Information Technology)
-- Strong in Full-Stack Web Development (MERN Stack)
-- Hands-on experience with Machine Learning fundamentals and projects
-- Interested in backend architecture, AI systems, and scalable applications
-- Actively improving problem-solving and system design skills
+- B.Tech / B.E student in a Computer Science–related discipline
+- Strong foundation in full-stack web development (MERN stack)
+- Experience with machine learning basics, data processing, and model training
+- Interested in backend systems, scalable architectures, and applied AI
+- Continuously improving problem-solving and system design skills
 
 ---
 
 ## Socials
 
-- GitHub: https://github.com/PURUSHOTHAM-spr  
--Linkedin:www.linkedin.com/in/purushotham-shagamreddy-59b048315
-
+- GitHub: https://github.com/PURUSHOTHAM-spr
 
 ---
 
@@ -39,32 +37,36 @@ Strong foundation in data structures, backend engineering, and hands-on project 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
 
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### Machine Learning
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+
 ---
 
 ## Projects (Highlights)
 
 ### Full-Stack E-Commerce Backend
-- Designed REST APIs using Node.js and Express
-- MongoDB schema design and JWT-based authentication
-- Modular backend architecture for scalability and maintainability
+- Developed RESTful APIs using Node.js and Express
+- Designed MongoDB schemas with JWT-based authentication
+- Built a modular backend architecture for scalability and maintainability
 
 ### Machine Learning Practice Projects
-- Data preprocessing and visualization using Pandas and Matplotlib
-- Model training using Scikit-Learn / TensorFlow
-- Focus on evaluation metrics and real-world datasets
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PURUSHOTHAM-spr&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=PURUSHOTHAM-spr&theme=tokyonight)
+- Performed data preprocessing and visualization using Pandas and Matplotlib
+- Trained models using Scikit-Learn and TensorFlow
+- Focused on evaluation metrics and real-world datasets
 
 ---
 
 ## Currently Learning
 
 - Advanced backend development and API design
-- Machine learning model optimization
+- Machine learning model optimization techniques
 - System design fundamentals
 - Internship and placement preparation
