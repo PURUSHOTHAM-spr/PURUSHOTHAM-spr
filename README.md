@@ -9,7 +9,7 @@ Strong foundation in data structures, backend engineering, and hands-on project 
 
 ## About Me
 
-- B.Tech / B.E student (Computer Science related field)
+- B.Tech  (Information Technology)
 - Strong in Full-Stack Web Development (MERN Stack)
 - Hands-on experience with Machine Learning fundamentals and projects
 - Interested in backend architecture, AI systems, and scalable applications
@@ -20,8 +20,8 @@ Strong foundation in data structures, backend engineering, and hands-on project 
 ## Socials
 
 - GitHub: https://github.com/PURUSHOTHAM-spr  
-<!-- Add LinkedIn here if you want -->
-<!-- Add Email here if you want -->
+-Linkedin:www.linkedin.com/in/purushotham-shagamreddy-59b048315
+
 
 ---
 
