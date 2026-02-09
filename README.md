@@ -19,7 +19,6 @@ My interests lie in backend engineering, API design, and applying ML fundamental
 
 ## Socials
 
-- GitHub: https://github.com/PURUSHOTHAM-spr
 - LinkedIn:www.linkedin.com/in/purushotham-shagamreddy-59b048315
 
 ---
